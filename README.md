@@ -16,5 +16,5 @@ to the springboot, configured with the schema and data fetcher details. A static
 explaination here in this website https://www.graphql-java.com/tutorials/getting-started-with-spring-boot/
 	
 ## Setup
-Simply import this project in the Springboot STS and you would be good to you. However you may not be able to run all the projects since data fetching apis wont be
+Simply import this project in the Springboot STS and you would be good to go. However you may not be able to run all the projects since data fetching apis wont be
 available for you.
