@@ -1,0 +1,6 @@
+scalar NonNegativeInt
+
+input CreateBankAcccountInput{
+	firstName:String!
+	age:NonNegativeInt!
+}

@@ -1,0 +1,4 @@
+#Some comment about query
+type Query{
+	bankAccount(id:ID!):BankAccount
+}
